@@ -11,4 +11,4 @@ Steps
 8. Or consider using **Rust** for **Frontend** - Yew (Web), Dioxus (Cross Platform - Web, Desktop, Mobile)
 9. Integrate **Tauri** for **Desktop** support (In any web only version, either using Rust powered Yew.rs or Nextjs)
 
-NOTE: This is how one CLI that written in Rust manually with the use of AI may help to achieve big visions easily
+Note: This is how one CLI that written in **Rust** manually with the use of **AI** may help to achieve **Big Visions** easily
