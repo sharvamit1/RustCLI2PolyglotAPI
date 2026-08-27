@@ -1,4 +1,4 @@
-# RustCLI2PolyglotCLI
+# RustCLI2PolyglotAPI
 
 Steps
 1. Write code manually in **Rust** from scratch (only for improvements or advancements use AI)
