@@ -9,4 +9,4 @@ Steps
 6. If you would like to work on **Java** along side Rust, integrate via Spring WebFlux, Quarkus, or simply Javalin
 7. Pick one **frontend** to use **TypeScript** as core React.js, Vue.js, Svelte.js, Astro.js, or Nextjs, or Angular
 8. Or consider using **Rust** for **Frontend** - Yew (Web), Dioxus (Cross Platform - Web, Desktop, Mobile)
-9. Integrate **Tauri** for **Desktop** support (In any web only version, either using Rust Yew.rs or Nextjs)
+9. Integrate **Tauri** for **Desktop** support (In any web only version, either using Rust powered Yew.rs or Nextjs)
